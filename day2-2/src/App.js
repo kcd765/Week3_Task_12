@@ -11,7 +11,6 @@ const App = () => {
       <br/>
 
       <Qn4 />
-      <SearchBar />
     </div>
   )
 };
